@@ -10,3 +10,7 @@ We have incorporated the [spatial attention module](https://ieeexplore.ieee.org/
 ![image](https://github.com/aosiddiqui/Retinal-Vessel-Segmentation/assets/56800893/7378befa-adac-47e1-9830-00ad0dcbe790)
 
 This repository contains the code of the implemented model.
+
+Here are the results on the DRIVE test data:
+
+![image](https://github.com/aosiddiqui/Retinal-Vessel-Segmentation/assets/56800893/138a8002-5f3f-4694-b6e2-2375383a34f6)
